@@ -1,0 +1,1509 @@
+<?xml version="1.0"?>
+<dico><entry>
+  <lemma>acoquiner</lemma>
+  <pos name="verb"/>
+  <inflected>
+    <form>acoquinaient</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinait</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquina</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinâmes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinant</form>
+    <feat name="tense" value="gerondif"/>
+  </inflected>
+  <inflected>
+    <form>acoquinas</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinassent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinasses</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinasse</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinassiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinassions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinâtes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinât</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinée</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinées</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquiné</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquine</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquine</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquine</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquine</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquine</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinera</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquineraient</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerait</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquineras</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinèrent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquineriez</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerions</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinerons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquineront</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquiner</form>
+    <feat name="tense" value="inf"/>
+  </inflected>
+  <inflected>
+    <form>acoquinés</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquines</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquines</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acoquinez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinez</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquiniez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquiniez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinions</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acoquinons</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+</entry><entry>
+  <lemma>acquérir</lemma>
+  <pos name="verb"/>
+  <inflected>
+    <form>acquéraient</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquérais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquérais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquérait</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquérant</form>
+    <feat name="tense" value="gerondif"/>
+  </inflected>
+  <inflected>
+    <form>acquérez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquérez</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquériez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquériez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquérions</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquérions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquérir</form>
+    <feat name="tense" value="inf"/>
+  </inflected>
+  <inflected>
+    <form>acquérons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquérons</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquerra</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquerraient</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquerrai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquerrais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquerrais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquerrait</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquerras</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquerrez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquerriez</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquerrions</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquerrons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquerront</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquièrent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquièrent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquière</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquière</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquières</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiers</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiers</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiers</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiert</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquîmes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquirent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquise</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquises</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquis</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquis</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquis</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquis</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquissent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquisses</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquisse</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquissiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquissions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquîtes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquit</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquît</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+</entry><entry>
+  <lemma>acquêter</lemma>
+  <pos name="verb"/>
+  <inflected>
+    <form>acquêtaient</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtait</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêta</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtâmes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtant</form>
+    <feat name="tense" value="gerondif"/>
+  </inflected>
+  <inflected>
+    <form>acquêtas</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtassent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtasses</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtasse</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtassiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtassions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtâtes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtât</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtée</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtées</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêté</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquête</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquête</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquête</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquête</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquête</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtera</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêteraient</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêterai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêterais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêterais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêterait</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêteras</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtèrent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêterez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêteriez</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêterions</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêterons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêteront</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêter</form>
+    <feat name="tense" value="inf"/>
+  </inflected>
+  <inflected>
+    <form>acquêtés</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtes</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquêtez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtez</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtiez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtions</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquêtons</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+</entry><entry>
+  <lemma>acquiescer</lemma>
+  <pos name="verb"/>
+  <inflected>
+    <form>acquiesçaient</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçait</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesça</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçâmes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçant</form>
+    <feat name="tense" value="gerondif"/>
+  </inflected>
+  <inflected>
+    <form>acquiesças</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçassent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçasses</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçasse</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçassiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçassions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçâtes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçât</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescé</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesce</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesce</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesce</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesce</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesce</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescera</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesceraient</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerait</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesceras</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescèrent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesceriez</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerions</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescerons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesceront</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescer</form>
+    <feat name="tense" value="inf"/>
+  </inflected>
+  <inflected>
+    <form>acquiesces</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiesces</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquiescez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescez</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesciez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesciez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescions</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiescions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquiesçons</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+</entry><entry>
+  <lemma>acquitter</lemma>
+  <pos name="verb"/>
+  <inflected>
+    <form>acquittaient</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittais</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittait</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitta</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittâmes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittant</form>
+    <feat name="tense" value="gerondif"/>
+  </inflected>
+  <inflected>
+    <form>acquittas</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittassent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittasses</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittasse</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittassiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittassions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittâtes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittât</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittée</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittées</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="feminine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitté</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittent</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitte</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitte</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitte</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitte</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitte</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittera</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitteraient</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitterai</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitterais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitterais</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitterait</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquitteras</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittèrent</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitterez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitteriez</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitterions</form>
+    <feat name="tense" value="cond"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitterons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitteront</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="3"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquitter</form>
+    <feat name="tense" value="inf"/>
+  </inflected>
+  <inflected>
+    <form>acquittés</form>
+    <feat name="tense" value="ppast"/>
+    <feat name="gender" value="masculine"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittes</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittes</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="singular"/>
+  </inflected>
+  <inflected>
+    <form>acquittez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittez</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittiez</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittiez</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="2"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittions</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittions</form>
+    <feat name="tense" value="subj"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittons</form>
+    <feat name="tense" value="ind"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+  <inflected>
+    <form>acquittons</form>
+    <feat name="tense" value="imp"/>
+    <feat name="person" value="1"/>
+    <feat name="number" value="plural"/>
+  </inflected>
+</entry></dico>
